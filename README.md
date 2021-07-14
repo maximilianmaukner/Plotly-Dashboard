@@ -10,7 +10,7 @@ The main dataset used originates from the Food and Agriculture Organization of t
 
 ### 1. Food Consumption per country
 In the first visualization, the eating and drinking habits (kilograms per capita per year) are displayed through a geo map while illustrating the countries with the highest and lowest consumption of the chosen food category which is dependent on the subject that the user eagers to analyze. Besides, showing the mean and standard deviation offers the user more intuition to better understand the average consumption of the chosen nutrition category. <br>
-### 2. GeneralHealthInformationperCountry
+### 2. General Health Information per Country
 Next, the bar chart displays the difference between the countries in term of health issues as well life expectancy and health expenditure of the respective country. The exhibition of the differences regarding the variables mentioned provokes further questions that can be a subject of discussion and research. For instance, the high variation in cardiovascular death rates despite identical results in terms of obesity and health expenditure where obesity hints at the food consumption and exercise habits while health expenditure exposes the priority of health for the government as well as the economic aspects of the respective country. <br>
 ### 3. Health Issues and Food Categories
 Subsequent to the map, a heatmap has been developed to investigate the correlations between the five health issue variables, which are obesity, diabetes prevalence, cardiovascular death rate, life expectancy and health expenditure, and the eighteen food variables. The results prompt a set of new research questions that entail the interrelationship of each food category with the health variables listed. <br>
@@ -19,7 +19,8 @@ Similar to the plot mentioned previously, this visualization investigates the co
 ### 5. K-Means Clustering
 Lastly, a clustering has been implemented which consists of two visualizations. On the left, users can select the clusters to inspect while on the right the resulting clusters can be compared with respect to a chosen variable. The clusters intend to minimize the amount of information by categorizing similar data items together which facilitates interpretations, while at the same time finding similarities between countries.
 
-
+## Dashboard
+https://health-eu.herokuapp.com
 
 ## References
 [1] Food and Agriculture Organization of the United Nations: http://www.fao.org/faostat/en/#data/FBS <br>
